@@ -40,14 +40,14 @@ int main() {
 			}
 		}
 
-
-	for (int i=0;i<n;i++){ // output for debug.
+/* output for debug.
+	for (int i=0;i<n;i++){
 		for (int j=0;j<n;j++){
 			cout << matrix.at(i).at(j) << ' ';
 		}
 	cout <<endl;
 	}
-
+*/
 
 
 	for (int i=0;i<n;i++) {
